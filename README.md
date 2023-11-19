@@ -1,5 +1,5 @@
+![lafleche_logo_small](https://github.com/CelineBoutinon/lafleche-et-associes/assets/143210563/645079d2-0cff-4d27-9b03-b39fae0aa756)
 
-![Alt text](lafleche_logo_small-1.png)
 
 
 # ANALYSER LES INDICATEURS DE L'EGALITE FEMMES-HOMMES AVEC KNIME
