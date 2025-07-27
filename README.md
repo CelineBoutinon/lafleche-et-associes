@@ -4,7 +4,7 @@
 
 # ANALYSER LES INDICATEURS DE L'EGALITE FEMMES-HOMMES AVEC KNIME
 
-Projet realisé en août 2023 dans le cadre de ma formation Data Analyst avec OpenClassrooms.
+Projet realisé en août 2023 dans le cadre de ma formation Data Analyst avec l'ENSAE-ENSAI Formation Continue (Cepe)/OpenClassrooms.
 
 ## Objectif du projet
 Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doivent calculer et publier sur leur site internet leur index de l’égalité femmes-hommes. Laflèche & Associés est un cabinet de consultants spécialisé dans la transformation digitale des entreprises. Le cabinet compte déjà plus de 150 salariés et est en plein développement. Dans ce contexte économique, le recrutement de consultants expérimentés est un véritable enjeu stratégique et le cabinet se doit d'afficher une politique volontariste pour développer l’égalité femmes-hommes, améliorer sa marque employeur et attirer plus facilement des talents.
